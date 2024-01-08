@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌍 I'm from Guatemala 🇬🇹 <br>🖥️ See my portfolio at work in ad link<br>✉️ You can contact me at carloshl.code21@gmail.com<br>🧠 I'm learning .Net and Angular<br>🤝 I'm open to collaborating on new projects<br>🌱 I’m looking to grow professionally<br>
-
-<h1>Hello World</h1>
+🌍 I'm from Guatemala 🇬🇹 <br>🖥️ See my portfolio at work <a href="https://www.cdlibre.org/img/cdlibre_logo.png">here</a> <br>✉️ You can contact me at carloshl.code21@gmail.com<br>🧠 I'm learning .Net and Angular<br>🤝 I'm open to collaborating on new projects<br>🌱 I’m looking to grow professionally<br> 💻 Working on improving my portfolio<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-herrera-code502) 
@@ -47,6 +45,7 @@ Here are some ideas to get you started:
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCode502&layout=compact&hide_border=true&title_color=6CD064&text_color=FFFFE0a4&bg_color=0d1117" />
 </div>
 
+<br/>
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CarlosCode502&theme=merko&border_radius=4.5)
