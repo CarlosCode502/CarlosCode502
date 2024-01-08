@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🌍 I'm based in Guatemala, Suchitepéquez<br>🖥️ See my portfolio at work in ad link<br>✉️ You can contact me at jars_06aspirin@icloud.com<br>🧠 I'm learning .Net and Angular<br>🤝 I'm open to collaborating on new projects<br>🌱 I’m looking to grow professionally<br>
 
+<h1>Hello World</h1>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-herrera-code502) 
@@ -25,13 +26,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=CarlosCode502&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosCode502&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCode502&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CarlosCode502&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosCode502&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCode502&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CarlosCode502&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CarlosCode502&icon=2&color=0)](https://visitcount.itsvg.in)
