@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CarlosCode502&show_icons=true&count_private=true&hide_border=true&title_color=6CD064&icon_color=2E6B38&text_color=FFFFE0&bg_color=0d1115)
+![GitHub Streak](https://streak-stats.demolab.com?user=CarlosCode502&theme=merko&border_radius=4.5)
 </div>
 
 ---
