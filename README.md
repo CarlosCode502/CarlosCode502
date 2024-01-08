@@ -50,12 +50,11 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://streak-stats.demolab.com?user=CarlosCode502&theme=merko&border_radius=4.5)
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=CarlosCode502&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
 <details>
  <summary><h3> 🕓 More </h3></summary>
    💻 Working on improving my portfolio...
+
+ ---
+[![](https://visitcount.itsvg.in/api?id=CarlosCode502&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
