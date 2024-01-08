@@ -26,8 +26,14 @@ Here are some ideas to get you started:
 <div style="flex: 1 1 auto">
   
 ![](https://github-readme-stats.vercel.app/api?username=CarlosCode502&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)
+
+<div style="margin-bottom: 20px">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCode502&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 </div>
+</div>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosCode502&theme=monokai&hide_border=false)<br/>
 
 
