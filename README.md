@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌍 I'm based in Guatemala, Suchitepéquez<br>🖥️ See my portfolio at work in ad link<br>✉️ You can contact me at jars_06aspirin@icloud.com<br>🧠 I'm learning .Net and Angular<br>🤝 I'm open to collaborating on new projects<br>🌱 I’m looking to grow professionally<br>
+🌍 I'm from Guatemala 🇬🇹 <br>🖥️ See my portfolio at work in ad link<br>✉️ You can contact me at carloshl.code21@gmail.com<br>🧠 I'm learning .Net and Angular<br>🤝 I'm open to collaborating on new projects<br>🌱 I’m looking to grow professionally<br>
 
 <h1>Hello World</h1>
 
