@@ -41,11 +41,17 @@ Here are some ideas to get you started:
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  <br/>
 
 # 📊 GitHub Stats:
-<div style="text-align: center;">
-  
-![](https://github-readme-stats.vercel.app/api?username=CarlosCode502&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosCode502&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCode502&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=juanolveraruiz&show_icons=true&count_private=true&hide_border=true&title_color=6CD064&icon_color=2E6B38&text_color=FFFFE0&bg_color=0d1117" alt="juanolveraruiz github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanolveraruiz&layout=compact&hide_border=true&title_color=6CD064&text_color=FFFFE0a4&bg_color=0d1117" />
+</div>
+
+[![Juan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=juanolveraruiz&bg_color=0d1117b&color=6CD064&line=2E6B38&point=6CD064&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=juanolveraruiz&theme=merko&border_radius=4.5)
 </div>
 
 
