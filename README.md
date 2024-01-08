@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌍 I'm from Guatemala 🇬🇹 <br>🖥️ See my portfolio at work <a href="https://www.cdlibre.org/img/cdlibre_logo.png">here</a> <br>✉️ You can contact me at carloshl.code21@gmail.com<br>🧠 I'm learning .Net and Angular<br>🤝 I'm open to collaborating on new projects<br>🌱 I’m looking to grow professionally<br> 
+🌍 I'm from Guatemala 🇬🇹 <br>🖥️ See my portfolio at work <a href="https://portafolio-web-carlos-herrera.code502.site">here</a> <br>✉️ You can contact me at carloshl.code21@gmail.com<br>🧠 I'm learning .Net and Angular<br>🤝 I'm open to collaborating on new projects<br>🌱 I’m looking to grow professionally<br> 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-herrera-code502) 
 
