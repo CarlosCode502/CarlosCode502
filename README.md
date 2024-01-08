@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Carlos+Herrera;I+am+a+Junior+Development;Hello+World!+:%29)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🌍 I'm from Guatemala 🇬🇹 <br>🖥️ See my portfolio at work <a href="https://portafolio-web-carlos-herrera.code502.site">here</a> <br>✉️ You can contact me at carloshl.code21@gmail.com<br>🧠 I'm learning .Net and Angular<br>🤝 I'm open to collaborating on new projects<br>🌱 I’m looking to grow professionally<br> 
 ## 🌐 Socials:
