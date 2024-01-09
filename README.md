@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Carlos+Herrera;I+am+a+Junior+Development;Hello+World!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFEB00a4&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Carlos+Herrera;I'm+Junior+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🌍 I'm from Guatemala 🇬🇹 <br>🖥️ See my portfolio at work <a href="https://portafolio-web-carlos-herrera.code502.site">here</a> <br>✉️ You can contact me at carloshl.code21@gmail.com<br>🧠 I'm learning .Net and Angular<br>🤝 I'm open to collaborating on new projects<br>🌱 I’m looking to grow professionally<br> 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosCode502&show_icons=true&count_private=true&hide_border=true&title_color=6CD064&icon_color=2E6B38&text_color=FFFFE0&bg_color=0d1117" alt="juanolveraruiz github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosCode502&theme=monokai&hide_border=true&include_all_commits=false&count_private=true" alt="CarlosCode502 github stats" /> 
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCode502&layout=compact&hide_border=true&title_color=6CD064&text_color=FFFFE0a4&bg_color=0d1117" />
 </div>
 
