@@ -44,13 +44,14 @@ Here are some ideas to get you started:
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosCode502&theme=monokai&hide_border=true&include_all_commits=false&count_private=true" alt="CarlosCode502 github stats" /> 
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCode502&layout=compact&hide_border=true&title_color=6CD064&text_color=FFFFE0a4&bg_color=0d1117" />
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCode502&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="most used languages" />
 </div>
 
 <br/>
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CarlosCode502&theme=merko&border_radius=4.5)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=CarlosCode502&theme=merko&border_radius=4.5) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosCode502&theme=monokai&hide_border=true)
 </div>
 
 <details>
