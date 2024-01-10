@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C2205B&size=55&center=true&vCenter=true&width=1000&lines=Hello+World!;I'm+Carlos+Herrera;I'm+Junior+Developer)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🌍 I'm from Guatemala 🇬🇹 <br>🖥️ See my portfolio at work <a href="https://portafolio-web-carlos-herrera.code502.site">here</a> <br>✉️ You can contact me at carloshl.code21@gmail.com<br>🧠 I'm learning .Net and Angular<br>🤝 I'm open to collaborating on new projects<br>🌱 Looking to grow professionally<br> 
+🌍 I'm from Guatemala 🇬🇹. <br>🖥️ See my portfolio at work <a href="https://portafolio-web-carlos-herrera.code502.site">here.</a> <br>✉️ You can contact me at carloshl.code21@gmail.com.<br>🧠 I'm learning .Net and Angular.<br>🤝 I'm open to collaborating on new projects.<br>🌱 Looking to grow professionally.<br> 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-herrera-code502) 
 
@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)  <br/>
 
 # 📊 GitHub Stats:
