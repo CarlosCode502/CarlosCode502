@@ -56,11 +56,12 @@ Here are some ideas to get you started:
 <details>
  <summary><h3> 🕓 More </h3></summary>
    💻 Working on improving my portfolio...
+</details>
 
  ---
 [![](https://visitcount.itsvg.in/api?id=CarlosCode502&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
+<div align="center" style="color: #C2205B">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosCode502}/count.svg" /></p> 
 <br>
