@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align="center" style="color: #C2205B">
+<div align="center" style="color: red">
 <p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosCode502}/count.svg" /></p> 
 </div>
