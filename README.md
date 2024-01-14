@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align="center" style="color: red">
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CarlosCode502}/count.svg" fill="#EB1F6A" /></p> 
+<div align="center">
+<p align="centre"  style="color: #EB1F6A"><b>Visitors Count</b></p>  
+<p align="center" style="color: #EB1F6A"><img align="center" src="https://profile-counter.glitch.me/{CarlosCode502}/count.svg" fill="#EB1F6A" /></p> 
 </div>
 
 <details>
