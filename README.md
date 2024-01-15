@@ -53,10 +53,12 @@ Here are some ideas to get you started:
 
 </div>
 
-[<div align="center">
+<!--
+<div align="center">
 <p align="centre"  style="color: #EB1F6A"><b>Visitors Count</b></p>  
 <p align="center" style="color: #EB1F6A"><img align="center" src="https://profile-counter.glitch.me/{CarlosCode502}/count.svg" fill="#EB1F6A" /></p> 
-</div>](url)
+</div>
+-->
 
 <details>
  <summary><h3> 🕓 More </h3></summary>
