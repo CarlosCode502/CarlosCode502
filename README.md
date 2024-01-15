@@ -53,10 +53,10 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align="center">
+[<div align="center">
 <p align="centre"  style="color: #EB1F6A"><b>Visitors Count</b></p>  
 <p align="center" style="color: #EB1F6A"><img align="center" src="https://profile-counter.glitch.me/{CarlosCode502}/count.svg" fill="#EB1F6A" /></p> 
-</div>
+</div>](url)
 
 <details>
  <summary><h3> 🕓 More </h3></summary>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 </details>
 
  ---
-[![](https://visitcount.itsvg.in/api?id=CarlosCode502&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=CarlosCode502&label=Profile%20Views&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
