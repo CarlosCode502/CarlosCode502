@@ -65,9 +65,9 @@ Here are some ideas to get you started:
    💻 Working on improving my portfolio...
 </details>
 
-
+<!--
  ---
 [![](https://visitcount.itsvg.in/api?id=CarlosCode502&label=Profile%20Views&color=10&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
